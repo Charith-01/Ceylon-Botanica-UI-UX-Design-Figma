@@ -9,4 +9,5 @@ Prototype -: https://www.figma.com/proto/gesXSJ1ezFKlWT4p2PgAaU/Ceylon-Botanica?
 ![Image](https://github.com/user-attachments/assets/e5ae969e-6fb7-4084-9b65-b56fc549e3cc)
 ![Image](https://github.com/user-attachments/assets/7b7cec11-a806-4271-a3b4-459b6e7c75d2)
 ![Image](https://github.com/user-attachments/assets/16eeedf5-37cd-447a-8df8-476e77eed454)
+![Image](https://github.com/user-attachments/assets/39645a6d-595c-418a-a8d1-f142435e5e94)
 ![Image](https://github.com/user-attachments/assets/ab7ad603-afa4-4c98-8ed3-37e6d0da4db5)
